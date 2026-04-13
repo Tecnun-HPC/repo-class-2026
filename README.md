@@ -3,5 +3,6 @@ Repositorio de pruebas para clase
 
 Authors:
 
+- Alice
 - Bob
 
